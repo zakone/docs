@@ -1,2 +1,2 @@
 # docs
-チーム開発実践入門の勉強会で使用した資料管理用リポジトリ
+Repository for documents to learn _team-development-practice-introduction_
