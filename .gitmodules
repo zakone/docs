@@ -1,0 +1,3 @@
+[submodule "tdp-doc"]
+	path = tdp-doc
+	url = https://github.com/y0k0ta19/tdp-doc.git
